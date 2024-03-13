@@ -13,11 +13,6 @@ Logistic Regression: linear classification model for binary and multi-class clas
 Decision Trees: tree-based models for classification and feature importance.
 k-Nearest Neighbors (kNN): instance-based learning for classification.
 Support Vector Machines (SVM): linear and kernel-based methods for classification.
-3. Regression Algorithms
-Linear Regression: linear model for predicting continuous target variables.
-Ridge and Lasso Regression: regularization techniques for linear regression.
-Decision Trees and Random Forest: tree-based models for regression.
-Gradient Boosting: ensemble learning for regression tasks.
 4. Evaluation Metrics
 Understanding common evaluation metrics for classification and regression tasks.
 Metrics such as accuracy, precision, recall, F1-score, mean squared error (MSE), and R-squared.
